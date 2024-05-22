@@ -2722,6 +2722,14 @@
       "base_denom": "usat",
       "path": "transfer/channel-6897/usat",
       "osmosis_verified": true,
+      "transfer_methods": [
+        {
+          "name": "Nomic App",
+          "type": "external_interface",
+          "deposit_url": "https://app.nomic.io/bitcoin",
+          "withdraw_url": "https://app.nomic.io/bitcoin"
+        }
+      ],
       "_comment": "Nomic Bitcoin $nBTC"
     },
     {
