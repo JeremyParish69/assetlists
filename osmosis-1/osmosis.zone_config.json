@@ -142,6 +142,16 @@
         "destination_network": "arbitrum"
       },
       {
+        "provider": "Optimism Bridge",
+        "name_suffix": "",
+        "symbol_suffix": ".e.op",
+        "token": {
+          "chain_name": "optimism",
+          "base_denom": "0x4200000000000000000000000000000000000042"
+        },
+        "destination_network": "optimism"
+      },
+      {
         "provider": "Avalanche Bridge",
         "name_suffix": "",
         "symbol_suffix": ".e.avax",
