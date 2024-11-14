@@ -2227,6 +2227,7 @@
       "base_denom": "factory/wormhole14ejqjyq8um4p3xfqj74yld5waqljf88fz25yxnma0cngspxe3les00fpjx/8sYgCzLRJC3J7qPn2bNbx6PiGcarhyx8rBhVaNnfvHCA",
       "path": "transfer/channel-2186/factory/wormhole14ejqjyq8um4p3xfqj74yld5waqljf88fz25yxnma0cngspxe3les00fpjx/8sYgCzLRJC3J7qPn2bNbx6PiGcarhyx8rBhVaNnfvHCA",
       "osmosis_verified": true,
+      "osmosis_unstable": true,
       "transfer_methods": [
         {
           "name": "Osmosis Wormhole Connect",
@@ -2247,7 +2248,7 @@
           "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/sol.wh.png"
         }
       },
-      "_comment": "Solana $SOL"
+      "_comment": "Solana (Wormhole) $SOL.wh"
     },
     {
       "chain_name": "gateway",
@@ -3202,7 +3203,7 @@
       "categories": [
         "stablecoin"
       ],
-      "_comment": "Solana USDC (Wormhole) $solana.USDC.wh"
+      "_comment": "Solana USDC (Wormhole) $USDC.sol.wh"
     },
     {
       "chain_name": "humans",
